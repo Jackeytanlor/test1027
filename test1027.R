@@ -5,3 +5,4 @@ z <- x
 library(usethis)
 use_github()
 example <- 1
+add <- 1
